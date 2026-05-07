@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Scroll Fix",
+  "description": "An unofficial extension to fix slow scrolling on LinkedIn.com",
+  "version": "0.0.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "linkedin-scroll-fix@humarotta",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
+}
