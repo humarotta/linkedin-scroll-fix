@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "web-ext@8.10.0": {
+      "last_modified": "2026-04-23T13:07:47Z",
+      "resolved": "github:NixOS/nixpkgs/01fbdeef22b76df85ea168fbfe1bfd9e63681b30#web-ext",
+      "source": "devbox-search",
+      "version": "8.10.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1jk80llsdk97vpd6v7pqygqacf4qa77s-web-ext-8.10.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/1jk80llsdk97vpd6v7pqygqacf4qa77s-web-ext-8.10.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4qsx5r24hgm460dgdyjfg5abpsk9wbfa-web-ext-8.10.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4qsx5r24hgm460dgdyjfg5abpsk9wbfa-web-ext-8.10.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gaipp5xvwnqp2crfy2mq22xfnlglmv5i-web-ext-8.10.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gaipp5xvwnqp2crfy2mq22xfnlglmv5i-web-ext-8.10.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/57fkrvfr07n0vvh6862s5maqwkx6s6xb-web-ext-8.10.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/57fkrvfr07n0vvh6862s5maqwkx6s6xb-web-ext-8.10.0"
+        }
+      }
+    }
+  }
+}
