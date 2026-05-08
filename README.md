@@ -6,4 +6,9 @@ The issue seems to occur because LinkedIn sets a very small font size, which can
 much slower in some browsers. This extension fixes that by forcing a normal font size in the main
 content area.
 
+## License
+
+This project is licensed under the [MIT License].
+
 [linkedin.com]: https://www.linkedin.com
+[mit license]: LICENSE.md
